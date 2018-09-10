@@ -1,0 +1,4 @@
+<%= srcDir %>/<%= srcStyleDir %>/abstracts/**/*.scss
+<%= srcDir %>/<%= srcStyleDir %>/base/_reset.scss
+<%= srcDir %>/<%= srcStyleDir %>/base/_icons.scss
+<%= srcDir %>/<%= srcStyleDir %>/main.scss

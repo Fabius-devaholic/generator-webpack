@@ -1,0 +1,29 @@
+{
+  "name": "generator-webpack",
+  "version": "1.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "repository": "Fabius-devaholic/generator-webpack",
+  "author": {
+    "name": "Hieu Tran",
+    "email": "vayu411@gmail.com",
+    "url": "https://github.com/Fabius-devaholic"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-assert": "^3.1.1",
+    "yeoman-generator": "^3.1.1",
+    "yeoman-test": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
